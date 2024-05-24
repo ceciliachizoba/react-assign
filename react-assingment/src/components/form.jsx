@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Input from "./input";
 import Button from "./button";
+
 const Form = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");

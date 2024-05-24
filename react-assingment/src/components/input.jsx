@@ -11,3 +11,4 @@ const Input = ({ type, placeholder, name, onChange, value }) => {
   );
 };
 export default Input;
+ 
